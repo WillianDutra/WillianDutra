@@ -1,16 +1,17 @@
-### Hi there 👋
+<h1 align='center'> Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">, I'm Willian <br> I'm a Web Dev Student at Trybe. </h1>
 
-<!--
-**WillianDutra/WillianDutra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
+<div align='center'>
+  <a href='https://github.com/WillianDutra'>
+    <img height='180em' src='https://github-readme-stats.vercel.app/api?username=WillianDutra&theme=dark&show_icons=true&count_private=true&icon_color=ffcc5b'>
+  </a>
+  <a href='https://github.com/WillianDutra'>
+    <img height='180em' src='https://github-readme-stats.vercel.app/api/top-langs/?username=WillianDutra&layout=compact&theme=dark&show_icons=true&count_private=true&icon_color=ffcc5b'>
+  </a>
+</div>
 
-Here are some ideas to get you started:
+##
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div aligh='center'>
+  
+</div>
