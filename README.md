@@ -93,10 +93,6 @@
 </table>
 </div>
 
-<!-- https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg
-     https://testing-library.com/img/octopus-128x128.png 
--->
-
 <br>
 <br>
 
