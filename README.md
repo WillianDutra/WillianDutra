@@ -28,8 +28,8 @@
          <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
       </td>
       <td width="80px" align="center">
-         <span><strong>Redux</strong></span><br>
-         <img height="32" src="https://cdn.worldvectorlogo.com/logos/redux.svg">
+         <span><strong>Github</strong></span><br>
+         <img height="32" src="https://www.vectorlogo.zone/logos/github/github-tile.svg">
       </td>
       <td width="80px" align="center">
          <span><strong>HTML</strong></span><br>
@@ -38,19 +38,19 @@
     </tr>
     <tr valign="top">
       <td width="80px" align="center">
-        <span><strong>Jest</strong></span><br>
-        <img height="32px" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg">
+        <span><strong>TypeScript</strong></span><br>
+        <img height="32px" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg">
       <td width="80px" align="center">
-        <span><strong>RTL</strong></span><br>
-        <img height="32" src="https://testing-library.com/img/octopus-128x128.png">
+        <span><strong>Redux</strong></span><br>
+        <img height="32" src="https://cdn.worldvectorlogo.com/logos/redux.svg">
       </td>
       <td width="80px" align="center">
         <span><strong>git</strong></span><br>
         <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
       </td>
       <td width="80px" align="center">
-        <span><strong>GitHub</strong></span><br>
-        <img height="32px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg">
+        <span><strong>CSS</strong></span><br>
+        <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
       </td>
      </tr>
      <tr valign="top">
@@ -67,13 +67,35 @@
          <img height="32px" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg">
         </td>
         <td width="80px" align="center">
-          <span><strong>CSS</strong></span><br>
-          <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+          <span><strong>Jest</strong></span><br>
+          <img height="32px" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg">
+        </td>
+     </tr>
+     <tr valign="top">
+       <td width="80px" align="center">
+         <span><strong>RTL</strong></span><br>
+         <img height="32px" src="https://testing-library.com/img/octopus-128x128.png">
+       </td>
+       <td width="80px" align="center">
+         <span><strong>Express</strong></span><br>
+         <img height="32px" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg">
+       </td>
+       <td width="80px" align="center">
+<!--          <span><strong></strong></span><br> -->
+<!--          <img height="32px" src=""> -->
+        </td>
+        <td width="80px" align="center">
+<!--           <span><strong></strong></span><br> -->
+<!--           <img height="32px" src=""> -->
         </td>
      </tr>
     </tbody>
 </table>
 </div>
+
+<!-- https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg
+     https://testing-library.com/img/octopus-128x128.png 
+-->
 
 <br>
 <br>
