@@ -13,7 +13,6 @@
   <li>Tenho 20 anos de idade.</li>
   <li>Sou de Guabiruba, Santa Catarina.</li>
   <li>Atualmente estudando Desenvolvimento Web na Trybe.</li>
-  <li>Entre em contato pelo email: contatowilliandutra@gmail.com</li>
  </ul>
 
 <br>
