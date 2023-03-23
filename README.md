@@ -1,6 +1,9 @@
 <br>
-<a target='_blank' href="https://www.linkedin.com/in/williandutra/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+<a href="https://www.linkedin.com/in/williandutra/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+</a>
+<a href="mailto:contatowilliandutra@gmail.com">
+  <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </a>
 
  <h3>Sobre mim! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" align="center"></h3>
@@ -10,6 +13,7 @@
   <li>Tenho 20 anos de idade.</li>
   <li>Sou de Guabiruba, Santa Catarina.</li>
   <li>Atualmente estudando Desenvolvimento Web na Trybe.</li>
+  <li>Entre em contato pelo email: contatowilliandutra@gmail.com</li>
  </ul>
 
 <br>
