@@ -101,9 +101,9 @@
 
 <div>
   <a href='https://github.com/WillianDutra'>
-    <img align='center' height='165em' src='https://github-readme-stats.vercel.app/api?username=WillianDutra&theme=transparent&text_color=adbac7&title_color=ffffff&show_icons=true&count_private=true&icon_color=ffcc5b'>
+    <img align='center' height='165em' src='https://github-readme-stats.vercel.app/api?username=WillianDutra&theme=transparent&text_color=adbac7&title_color=ffffff&count_private=true'>
   </a>
   <a href='https://github.com/WillianDutra'>
-    <img align='center' height='165em' src='https://github-readme-stats.vercel.app/api/top-langs/?username=WillianDutra&layout=compact&theme=transparent&text_color=adbac7&title_color=ffffff&show_icons=true&count_private=true&icon_color=ffcc5b'>
+    <img align='center' height='165em' src='https://github-readme-stats.vercel.app/api/top-langs/?username=WillianDutra&layout=compact&theme=transparent&text_color=adbac7&title_color=ffffff&count_private=true'>
   </a>
 </div>
