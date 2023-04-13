@@ -84,8 +84,8 @@
          <img height="32px" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg">
        </td>
        <td width="80px" align="center">
-<!--          <span><strong></strong></span><br> -->
-<!--          <img height="32px" src=""> -->
+         <span><strong>MongoDB</strong></span><br>
+         <img height="32px" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg">
         </td>
         <td width="80px" align="center">
 <!--           <span><strong></strong></span><br> -->
