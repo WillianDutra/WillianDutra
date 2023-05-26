@@ -15,8 +15,6 @@
   <li>Atualmente estudando Desenvolvimento Web na Trybe.</li>
  </ul>
 
-<br>
-
 <div>
 <h3>Tecnologias e Ferramentas:</h3>
 <table width="320px">
@@ -88,15 +86,14 @@
          <img height="32px" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg">
         </td>
         <td width="80px" align="center">
-<!--           <span><strong></strong></span><br> -->
-<!--           <img height="32px" src=""> -->
+          <span><strong>Python</strong></span><br>
+          <img height="32px" src="https://www.vectorlogo.zone/logos/python/python-icon.svg">
         </td>
      </tr>
     </tbody>
 </table>
 </div>
 
-<br>
 <br>
 
 <div>
