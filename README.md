@@ -36,6 +36,10 @@
          <span><strong>HTML</strong></span><br>
          <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
       </td>
+      <td width="80px" align="center">
+         <span><strong>C#</strong></span><br>
+         <img height="32" src="https://cdn.worldvectorlogo.com/logos/c--4.svg">
+      </td>
     </tr>
     <tr valign="top">
       <td width="80px" align="center">
@@ -52,6 +56,10 @@
       <td width="80px" align="center">
         <span><strong>CSS</strong></span><br>
         <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+      </td>
+      <td width="80px" align="center">
+         <span><strong>.NET</strong></span><br>
+         <img height="32" src="https://cdn.worldvectorlogo.com/logos/dotnet.svg">
       </td>
      </tr>
      <tr valign="top">
@@ -71,6 +79,10 @@
           <span><strong>Jest</strong></span><br>
           <img height="32px" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg">
         </td>
+        <td width="80px" align="center">
+<!--           <span><strong></strong></span><br> -->
+<!--           <img height="32px" src=""> -->
+        </td>
      </tr>
      <tr valign="top">
        <td width="80px" align="center">
@@ -88,6 +100,10 @@
         <td width="80px" align="center">
           <span><strong>Python</strong></span><br>
           <img height="32px" src="https://www.vectorlogo.zone/logos/python/python-icon.svg">
+        </td>
+        <td width="80px" align="center">
+<!--           <span><strong></strong></span><br> -->
+<!--           <img height="32px" src=""> -->
         </td>
      </tr>
     </tbody>
