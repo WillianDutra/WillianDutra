@@ -10,7 +10,6 @@
  
  <ul>
   <li>Me chamo Willian Dutra.</li>
-  <li>Tenho 20 anos de idade.</li>
   <li>Sou de Guabiruba, Santa Catarina.</li>
   <li>Atualmente estudando Desenvolvimento Web na Trybe.</li>
  </ul>
