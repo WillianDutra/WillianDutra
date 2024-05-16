@@ -109,7 +109,7 @@
 </table>
 </div>
 
-<br>
+<!-- <br>
 
 <div>
   <a href='https://github.com/WillianDutra'>
@@ -118,4 +118,4 @@
   <a href='https://github.com/WillianDutra'>
     <img align='center' height='165em' src='https://github-readme-stats-williandutra.vercel.app/api/top-langs/?username=WillianDutra&layout=compact&theme=transparent&text_color=adbac7&title_color=ffffff'>
   </a>
-</div>
+</div> -->
